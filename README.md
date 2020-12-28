@@ -4,7 +4,7 @@ In this project, we have used multilabel solar flare dataset, which is available
 
 The dataset contains 6 CSV files: 3 files for training & 3 for testing.
 
-We have precprocessed the data & created 5 classes for the class prediction. 
+We have precprocessed the data & created 5 classes for the class prediction.
  N --> No flare
  B --> weakest flare
  C --> weak flare
