@@ -1,6 +1,6 @@
 # Solar-flare-class-prediction
 
-In this project, we have used multilabel solar flare dataset, which is available on kaggle.
+In this project, we have used multilabel solar flare dataset, which is available on kaggle (https://www.kaggle.com/amoghjrules/multilabel-solar-flare-dataset).
 
 The dataset contains 6 CSV files: 3 files for training & 3 for testing.
 
